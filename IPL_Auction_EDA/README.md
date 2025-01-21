@@ -1,4 +1,4 @@
-**Exploratory Data Analysis - IPL AUCTION **
+**Exploratory Data Analysis - IPL AUCTION**
 
 **What is IPL Auction?**
 The IPL Auction refers to the auction process through which teams in the Indian Premier League (IPL) franchise cricket tournament acquire players for their squads. The IPL is a professional Twenty20 cricket league in India, and the auction is a crucial event that takes place before the start of each season.
